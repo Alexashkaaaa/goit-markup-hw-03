@@ -126,9 +126,19 @@ a {
 .conteiner {
   max-width: 1158px;
   padding: 0 15px;
-  margin: 0;
+  margin: 0 auto;
 }
 .header-conteiner {
   display: flex;
   justify-content: space-between;
+}
+.page-header {
+  border-bottom: 1px solid #e7e9fc;
+}
+.header-nav {
+  display: flex;
+  align-items: center;
+}
+.logo .header-logo {
+  margin-right: 76px;
 }
