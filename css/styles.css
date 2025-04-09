@@ -139,6 +139,17 @@ a {
   display: flex;
   align-items: center;
 }
-.logo .header-logo {
+.logo {
   margin-right: 76px;
+}
+.header-nav {
+  display: flex;
+  gap: 40px;
+}
+.nav-list {
+  padding: 24px 0;
+}
+.nav-item {
+  display: flex;
+  gap: 40px;
 }
