@@ -123,7 +123,7 @@ a {
 .footer-logo .logo-part-footer {
   color: #f4f4fd;
 }
-.conteiner {
+.one-conteiner {
   max-width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
@@ -159,11 +159,13 @@ a {
   gap: 40px;
   padding: 24px 0;
 }
+
 .section-one {
   padding: 188px 0;
 }
 .title-one {
   max-width: 496px;
+  text-align: center;
 }
 .button-type {
   display: block;
@@ -173,4 +175,19 @@ a {
   background-color: #4d5ae5;
   border-radius: 4px;
   cursor: pointer;
+  padding: 16px 32px;
+}
+.section-two {
+  padding: 120px 0;
+}
+.list-content-two {
+  display: flex;
+  gap: 24px;
+}
+
+.features-item {
+  width: calc((100% - 72px) / 4);
+}
+.title-two {
+  margin-bottom: 8px;
 }
