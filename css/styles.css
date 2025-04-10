@@ -128,7 +128,7 @@ a {
   padding: 0 15px;
   margin: 0 auto;
 }
-.header-conteiner {
+.conteiner {
   display: flex;
   justify-content: space-between;
 }
