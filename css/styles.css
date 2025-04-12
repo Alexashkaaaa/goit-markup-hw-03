@@ -26,7 +26,7 @@ a {
 }
 /*common*/
 
-.conteiner {
+.container {
   max-width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
@@ -36,7 +36,7 @@ a {
   border-bottom: 1px solid #e7e9fc;
 }
 
-.header-conteiner {
+.header-container {
   display: flex;
   align-items: center;
 }
