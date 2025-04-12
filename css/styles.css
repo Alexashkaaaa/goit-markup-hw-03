@@ -228,6 +228,9 @@ a {
 .paragraph-section-three {
   text-align: center;
 }
+.images-three {
+  display: block;
+}
 
 /* section-four */
 .section-four {
@@ -259,6 +262,9 @@ a {
 }
 .title-portfolio {
   margin-bottom: 8px;
+}
+.images-four {
+  display: block;
 }
 /* footer*/
 
